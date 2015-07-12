@@ -4,6 +4,8 @@
    Author's custom styles
    ========================================================================== */
 .karusell {
+  max-width: 500px;
+  max-height: 375;
   height: 375px;
   width: 500px;
 }
